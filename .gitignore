@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/visualstudio/RWHEC-Tabb-AhmadYousef/.vs/RWHEC-Tabb-AhmadYousef
+/visualstudio/RWHEC-Tabb-AhmadYousef/x64/Release
